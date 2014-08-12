@@ -1,9 +1,9 @@
 === Limit Widgets ===
-Contributors: BFTrick
+Contributors: BFTrick,welcher
 Tags: widget, sidebar, dynamic sidebar, limit, restrict
 Requires at least: 3.0
 Tested up to: 3.9.1
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -35,6 +35,7 @@ __Contributors Welcome__
 __Author__
 
 *   [Patrick Rauland](http://www.patrickrauland.com)
+*	[Ryan Welcher](http://www.ryanwelcher.com)
 
 
 
@@ -79,6 +80,11 @@ This plugin is based on JavaScript. If you have a client who likes to break the 
 
 
 == Changelog ==
+
+= 1.0.4 =
+
+* fixed a bug where users could add more widgets via the inline tool
+* added additional author
 
 = 1.0.3 =
 
